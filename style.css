@@ -1,0 +1,62 @@
+.box {
+   display: flex;
+   align-items: center;
+   background: hsl(0, 0%, 100%);
+   padding: 1em;
+   border-radius: 15px;
+   max-width: 260px;
+   flex-direction: column;
+   text-align: center;
+   justify-content: space-evenly 50px;
+   margin-top: 150px;
+   box-shadow: 1px 1px 1px 1px;
+ }
+ 
+ 
+ img {
+   height: 270px;
+   width: 270px;
+   border-radius: 10px;
+ }
+ 
+ body {
+   background-color: hsl(212, 45%, 89%);
+ }
+ 
+ .container {
+   display: flex;
+   justify-content: space-evenly;
+ }
+ 
+ .Improve {
+   font-family: Outfit;
+   font-weight: 700;
+   margin-top: 25px;
+   font-size: 20px;
+   text-align: justify-all;
+  
+ }
+ 
+ .Scan {
+   font-family: Outfit;
+   font-weight: 400;
+ 
+ }
+ 
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: black;
+    text-align: center;
+ }
+
+ .media-body {
+  border-top: 30px;
+ }
+
+ body {
+  font-size: 15px;
+ }
